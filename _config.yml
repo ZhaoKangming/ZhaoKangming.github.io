@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Kangming's Blog
 author: ZhaoKangming
 email: zhaokm0@gamil.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -19,17 +19,17 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: 
+    # twitter: 
     github:  ZhaoKangming
-    linkedIn: 
+    # linkedIn: 
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: zhaoComing
     # linkedin: jekyll
     # pinterest: jekyll
-    # youtube: jekyll
+    youtube: zhaokm0@gmail
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
